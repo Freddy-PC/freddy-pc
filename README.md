@@ -1,9 +1,10 @@
 ### Hi 👋, I'm Freddy!
-<h3 align="center">I'm an Army reservist, student, and violinist.</h3>
+<h2>I'm a Software Engineer with a diverse background that consisted of Military, music, and healthcare. </h2>
+<h3>My goal is to make the best user experience for all users!</h3>
 
-- 🌱 I’m currently learning to code from the **Practicum Software Engineering Bootcamp.**
+- 🌱 I’m graduated from the Software Engineering Bootcamp made by **TripleTen.**
 - 📫 How to reach me:  **freddythepc@gmail.com**
-- ⚡ Fun fact: **I love music and video games.**
+- ⚡ About me: **I can play the violin and I enjoy playing video-games!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
