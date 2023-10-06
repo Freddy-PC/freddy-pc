@@ -7,7 +7,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/freddy pc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freddy pc" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/freddy-perez-camacho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="freddy pc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -15,7 +15,3 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=freddy-pc&show_icons=true&locale=en&layout=compact" alt="freddy-pc" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=freddy-pc&show_icons=true&locale=en" alt="freddy-pc" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=freddy-pc&" alt="freddy-pc" /></p>
