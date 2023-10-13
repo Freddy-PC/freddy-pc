@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Freddy!
-<h2>I'm a Software Engineer with a diverse background that consists of Military, music, and healthcare. </h2>
+<h2>I'm a Software Engineer with a diverse background that consists of Military, Music, and Healthcare. </h2>
 <h3>My goal is to make the best user experience for all website users!</h3>
 
 - 📜 I graduated from the Software Engineering Bootcamp made by **TripleTen.**
-- ⚡ About me: **I can play the violin, enjoy playing video games, and used to be a CNA!**
+- ⚡ About me: **I can play the violin, enjoy playing video games, and used to be a Certified Nursing Assistant (CNA)!**
 - 📫 How to reach me:  **freddythepc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
